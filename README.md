@@ -15,7 +15,7 @@ Analysis:
 
 Citations:
 
-BootCamp in-class examples and starter code provided.
+BootCamp in-class examples and starter code provided helped me toward proper analysis according to the instructions.
 
 Python Tutorial. (n.d.). https://www.w3schools.com/python/
 
