@@ -1,7 +1,7 @@
 # pandas_challenge
 Module 4 Pandas Library  Challenge-School District Analysis
 
-The challenge was to analyze two CSV files, school data, and student data, in order to conclude whether there are any significant differences with respect to school type, student population, total spending, spending per student, and grades within the schools against the passing rates for reading, math, and overall performance.
+The challenge was to analyze two CSV files, school data, and student data, in order to conclude whether there are any significant differences with respect to school type, student population, total spending, spending per student, and grades within the schools against the passing rates for reading, math, and overall performance. Full instructions are provided in the Instructions file.
 
 
 Analysis:
